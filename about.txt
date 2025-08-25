@@ -1,0 +1,3 @@
+Rani Kurupudi
+Bsc.Data Science-2
+One key lesson learned from GitHub is the power of distributed version control and collaborative software development.
